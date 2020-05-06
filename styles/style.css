@@ -242,7 +242,7 @@ form.contact input {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
       url('../images/ciroweb_bg_mob.jpg');
     /*full height*/
-    height: 450px;
+    height: 400px;
     /*center and scale the image*/
     background-position: center;
     background-repeat: no-repeat;
