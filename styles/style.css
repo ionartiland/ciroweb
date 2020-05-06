@@ -1,3 +1,26 @@
+#myBtn {
+  opacity: 0.5;
+  display: none;
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+  z-index: 199;
+  font-size: 40px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+  font-size: 45px;
+}
+
 .content {
   /* max-width: 968px; */
   margin: 0 auto;
@@ -45,7 +68,7 @@ a:hover {
 
 .img-project:hover {
   box-shadow: 0px 17px 15px 2px rgba(0, 0, 0, 0.5);
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .contact {
@@ -139,6 +162,7 @@ form.contact input {
     padding: 0;
     height: 100%;
   }
+
   .bg {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
       url('../images/ciroweb_bg.jpg');
@@ -205,6 +229,14 @@ form.contact input {
     margin: 0;
     padding: 0;
     height: 100%;
+  }
+
+  #myBtn {
+    font-size: 30px;
+  }
+
+  #myBtn:hover {
+    font-size: 35px;
   }
   .bg {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
