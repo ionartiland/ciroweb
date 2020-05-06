@@ -239,10 +239,10 @@ form.contact input {
     font-size: 35px;
   }
   .bg {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
       url('../images/ciroweb_bg_mob.jpg');
     /*full height*/
-    height: 350px;
+    height: 450px;
     /*center and scale the image*/
     background-position: center;
     background-repeat: no-repeat;
