@@ -233,6 +233,7 @@ form.contact input {
 
   #myBtn {
     font-size: 30px;
+    right: 10px;
   }
 
   #myBtn:hover {
